@@ -1,0 +1,777 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"group_us",
+				"group_user_like_map"
+			],
+			[
+				"group_user",
+				"group_user_like_map"
+			],
+			[
+				"grou",
+				"group_user_like_map"
+			],
+			[
+				"pas",
+				"password_confirm"
+			],
+			[
+				"ph",
+				"phrase"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"pd",
+				"padding-bottom"
+			],
+			[
+				"pdding",
+				"padding-right"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"Nav",
+				"NavbarTemplate"
+			],
+			[
+				"group",
+				"groupController"
+			],
+			[
+				"File",
+				"File	File.open(\"..\") { |file| .. }"
+			],
+			[
+				"New",
+				"NewGroupModal"
+			],
+			[
+				"newGrou",
+				"newGroupModal"
+			],
+			[
+				"App",
+				"AppLayoutTemplate"
+			],
+			[
+				"Lef",
+				"LeftContentLayoutTemplate"
+			],
+			[
+				"Lay",
+				"LeftContentLayout"
+			],
+			[
+				"button",
+				"buttons"
+			],
+			[
+				"session",
+				"sessionSchema"
+			],
+			[
+				"user",
+				"userSchema"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 327.0,
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"syntax rails",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"syn javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syn rails",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"minim",
+				"View: Toggle Minimap"
+			],
+			[
+				"syn html",
+				"Set Syntax: HTML"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"syn css",
+				"Set Syntax: CSS"
+			],
+			[
+				"syn javascript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syn javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syn ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"package remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"package remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"syn coff",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"syn coffe",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"syn coffee",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"syn java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syn json",
+				"Set Syntax: JSON"
+			],
+			[
+				"package dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"syn javascrip",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax javascrip",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax javascript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pi",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"syntax bas",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"git log",
+				"Git: Log Current File"
+			],
+			[
+				"git diff",
+				"Git: Diff All"
+			],
+			[
+				"coffee",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"syntax jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Diff Tool All"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/mj/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/mj/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/mj/Library/Application Support/Sublime Text 2/Packages/User/Distraction Free.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/mj/work/github/survey1/app/controllers",
+			"/Users/mj/work/github/survey1/app",
+			"/Users/mj/work/github/survey1",
+			"select",
+			"",
+			"./app",
+			"app",
+			"./app",
+			"app",
+			"<open folders>",
+			"/Users/mj/github/sedka/views",
+			"sedka",
+			"views",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"draw_normal",
+			"already_like",
+			"@group",
+			"select",
+			"@group",
+			"select",
+			"applicationcontroller",
+			"setRequestheader(\"",
+			"setRequestheader(\"o",
+			"setRequestheader( \"o",
+			"setRequestheader( \"O",
+			"'ori",
+			"'Ori",
+			"\"Ori",
+			"\"origin\"",
+			"header",
+			"origin",
+			"body.password",
+			"theuser",
+			"body.email",
+			"e",
+			"body.email",
+			"express",
+			"app",
+			"text",
+			"forgot_password",
+			"group_name",
+			"btn-success",
+			"layout_front",
+			"datetime",
+			"email",
+			"number",
+			"bold",
+			"33cc00",
+			"input",
+			"category",
+			"Location",
+			"signupButton",
+			"00CC99",
+			"label",
+			"email",
+			"first_name",
+			"로",
+			"00CC99",
+			"999900",
+			"33CCCC",
+			"family",
+			"typeahead",
+			"규",
+			"민욱",
+			"test",
+			"openModifyUserModal",
+			"test",
+			"modifyuserinfo",
+			"layout",
+			"class",
+			"search",
+			"\"",
+			"groups",
+			"group",
+			"Group",
+			"group",
+			"Category",
+			"groupSchema",
+			"	\n",
+			"body",
+			"\"",
+			"use",
+			"file",
+			"groupMembers",
+			"groupCategories",
+			"Vintage",
+			"Packages",
+			"true",
+			"false",
+			"true",
+			"test",
+			"user.save",
+			"mongoose",
+			"jQuery",
+			"Category",
+			"user",
+			"User",
+			"userSchema",
+			"mongoose",
+			"\">\n",
+			"		\n",
+			"newGroup",
+			"groupCategory",
+			"makerequire",
+			"require =",
+			"require:",
+			"require: func",
+			"data-main",
+			"j",
+			"m442669_2",
+			"close",
+			"suppressKeyPress",
+			"supress",
+			"keypress",
+			"modal",
+			"template",
+			"initialize",
+			"NewGroupModal",
+			"BaseModal",
+			"NewGroupModal",
+			"fluid",
+			"contents",
+			"LeftContentLayout",
+			"Backbone",
+			"backbone",
+			"LeftContentLayout",
+			"version",
+			"jquery",
+			"jquery-1.8.1",
+			"index",
+			"></",
+			"name",
+			"nam",
+			"name",
+			"render",
+			"start",
+			"sessions",
+			"group",
+			"home",
+			"app",
+			"()",
+			"i18n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"create",
+				"db/migrate/20130203082244_create_groups.rb"
+			],
+			[
+				"group",
+				"app/models/group.rb"
+			],
+			[
+				"groupuser",
+				"app/models/group_user_like_map.rb"
+			],
+			[
+				"sessionhelp",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"home",
+				"app/controllers/home_controller.rb"
+			],
+			[
+				"homeindex",
+				"blog/app/views/home/index.html.erb"
+			],
+			[
+				"home_con",
+				"blog/app/controllers/home_controller.rb"
+			],
+			[
+				"route",
+				"blog/config/routes.rb"
+			],
+			[
+				"jqu",
+				"sedka/static/js/jquery-1.8.2.js"
+			],
+			[
+				"signin",
+				"sedka/views/signin.jade"
+			],
+			[
+				"home_",
+				"sedka-rails/app/controllers/home_controller.rb"
+			],
+			[
+				"controller",
+				"sedka-rails/app/controllers/application_controller.rb"
+			],
+			[
+				"user",
+				"sedka/model/user.js"
+			],
+			[
+				"sess",
+				"sedka/routes/sessions.js"
+			],
+			[
+				"pro",
+				"sedka/properties.js"
+			],
+			[
+				"en",
+				"sedka/locales/en.js"
+			],
+			[
+				"ko",
+				"sedka/locales/ko.js"
+			],
+			[
+				"welcome",
+				"sedka/views/text/welcome.html"
+			],
+			[
+				"form_",
+				"sedka/static/js/form_check.js"
+			],
+			[
+				"sessions",
+				"sedka/routes/sessions.js"
+			],
+			[
+				"proper",
+				"sedka/properties.js"
+			],
+			[
+				"express",
+				"sedka/node_modules/express/lib/express.js"
+			],
+			[
+				"database",
+				"sedka/database.js"
+			],
+			[
+				"applayout",
+				"sedka/static/js/app/view/layout/AppLayout.js"
+			],
+			[
+				"applayou",
+				"sedka/static/template/layout/AppLayoutTemplate.html"
+			],
+			[
+				"tasklay",
+				"sedka/static/js/app/bootstrap/taskLayoutApp.js"
+			],
+			[
+				"",
+				"sedka/static/template/layout/AppLayoutTemplate.html"
+			],
+			[
+				"task",
+				"sedka/static/js/app/bootstrap/taskLayoutApp.js"
+			],
+			[
+				"maincontent",
+				"sedka/static/js/app/view/layout/MainContentLayout.js"
+			],
+			[
+				"mainlay",
+				"sedka/static/template/layout/MainContentLayoutTemplate.html"
+			],
+			[
+				"app.js",
+				"sedka/static/js/app/app.js"
+			],
+			[
+				"properties",
+				"sedka/properties.js"
+			],
+			[
+				"properti",
+				"sedka/static/js/app/config/properties.js"
+			],
+			[
+				"newgrou",
+				"sedka/static/template/NewGroupModalTemplate.html"
+			],
+			[
+				"basevi",
+				"sedka/static/js/app/view/BaseView.js"
+			],
+			[
+				"newgroup",
+				"sedka/static/template/NewGroupModalTemplate.html"
+			],
+			[
+				"data",
+				"sedka/database.js"
+			],
+			[
+				"group.co",
+				"sedka-rest/model/Group.coffee"
+			],
+			[
+				"groupcon",
+				"sedka-rest/controller/GroupController.coffee"
+			],
+			[
+				"layout",
+				"sedka/views/layout.jade"
+			],
+			[
+				"main.jade",
+				"sedka/views/main.jade"
+			],
+			[
+				"package",
+				"sedka-rest/package.json"
+			],
+			[
+				"packa",
+				"sedka/package.json"
+			],
+			[
+				"base",
+				"sedka-main/app/view/BaseView.js"
+			],
+			[
+				"app",
+				"sedka-rest/app.js"
+			],
+			[
+				".giti",
+				"sedka-rest/.gitignore"
+			],
+			[
+				"leftconte",
+				"sedka-main/app/template/layout/LeftContentLayoutTemplate.html"
+			],
+			[
+				"paca",
+				"sedka-rest/package.json"
+			],
+			[
+				".git",
+				"sedka/.gitignore"
+			],
+			[
+				"package.json",
+				"sedka/package.json"
+			],
+			[
+				"require",
+				"sedka/static/js/requirejs-2.1.1.js"
+			],
+			[
+				"bootstrap.js",
+				"sedka/static/js/bootstrap.js"
+			],
+			[
+				"backbone.",
+				"sedka/asset/js/backbone/backbone-0.9.2.js"
+			],
+			[
+				"applay",
+				"sedka/app/view/layout/AppLayout.js"
+			],
+			[
+				"leftcon",
+				"sedka/app/view/layout/LeftContentLayout.js"
+			],
+			[
+				"boot",
+				"bootstrap/less/bootstrap.less"
+			],
+			[
+				"layout.jade",
+				"sedka/views/layout.jade"
+			],
+			[
+				"layout.ja",
+				"sedka/views/layout.jade"
+			],
+			[
+				"home.jade",
+				"sedka/views/home.jade"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 199.0,
+	"status_bar_visible": true
+}
