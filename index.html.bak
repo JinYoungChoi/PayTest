@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/css/bootstrap-responsive.min.css" rel="stylesheet">
+    <title>장부</title>
+</head>
+<body>
+    <div class="container">
+        <table class="table table-bordered">
+            <caption><h3>2013/06/23(일)</h3></caption>
+            <thead>
+                <tr>
+                    <th><h4>이름</h4></th>
+                    <th><h4>입금액(원)</h4></th>
+                    <th><h4>비고</h4></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="success">
+                    <td>원명재</td>
+                    <td>10,000</td>
+                    <td>-</td>
+                </tr>
+                <tr class="warning">
+                    <td>최진영</td>
+                    <td>-</td>
+                    <td>계좌이체 예정</td>
+                </tr>
+                <tr class="error">
+                    <td>김종민</td>
+                    <td>-</td>
+                    <td>돈 안내고 쨈</td>
+                </tr>
+                <tr class="success">
+                    <td>문석준</td>
+                    <td>10,000</td>
+                    <td>-</td>
+                </tr>
+                <tr class="success">
+                    <td>최지홍</td>
+                    <td>10,000</td>
+                    <td>-</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>
